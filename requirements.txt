@@ -1,0 +1,6 @@
+qiskit==2.1.2
+qiskit-aer==0.17.2
+numpy==2.3.4
+matplotlib==3.10.7
+import-ipynb==0.2
+scipy==1.16.3
