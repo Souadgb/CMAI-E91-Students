@@ -21,7 +21,7 @@ You'll learn:
 
 Complete the notebooks **in order**:
 
-### 1. [01_CHSH_Bell_Inequality.ipynb](01_CHSH_Bell_Inequality.ipynb)
+### 1. [01_CHSH_Bell_Inequality.ipynb](01_CHSH_Bell_Inequality.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/01_CHSH_Bell_Inequality.ipynb) | [Français](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/01_CHSH_Bell_Inequality_fr.ipynb)
 **Learn the fundamentals of quantum entanglement**
 
 - Create Bell pairs (entangled qubit pairs)
@@ -31,7 +31,7 @@ Complete the notebooks **in order**:
 
 ~45 minutes
 
-### 2. [02_E91_Protocol.ipynb](02_E91_Protocol.ipynb)
+### 2. [02_E91_Protocol.ipynb](02_E91_Protocol.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/02_E91_Protocol.ipynb) | [Français](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/02_E91_Protocol_fr.ipynb)
 **Build a complete quantum key distribution system**
 
 - Use your functions from Notebook 1 (automatically imported!)
